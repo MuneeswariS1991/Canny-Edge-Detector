@@ -1,0 +1,2 @@
+# Canny-Edge-Detector
+The Canny edge detector is an edge detection operator that uses a multi-stage algorithm to detect a wide range of edges in images. It was developed by John F. Canny in 1986. Canny also produced a computational theory of edge detection explaining why the technique works. The Canny edge detector applied to a color photograph of a steam engine. Canny edge detection is a image processing method used to detect edges in an image while suppressing noise. The main steps are as follows: Step 1 - Grayscale Conversion Step 2 - Gaussian Blur
